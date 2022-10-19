@@ -1,0 +1,1494 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 1700 5650
+Connection ~ 2100 4700
+Connection ~ 2500 7850
+Connection ~ 2500 7950
+Connection ~ 2500 8050
+Connection ~ 2500 8150
+Connection ~ 4150 7700
+Connection ~ 4150 7800
+Connection ~ 4150 7900
+Connection ~ 4150 8000
+Connection ~ 4150 8100
+Connection ~ 4150 8200
+Connection ~ 4150 8300
+Connection ~ 4150 8400
+Connection ~ 4150 8500
+Connection ~ 4150 8600
+Connection ~ 4200 1800
+Wire Wire Line
+	950  5900 1050 5900
+Wire Wire Line
+	1050 7500 1150 7500
+Wire Wire Line
+	1050 7700 1150 7700
+Wire Wire Line
+	1050 8000 1150 8000
+Wire Wire Line
+	1050 8200 1150 8200
+Wire Wire Line
+	1050 8300 1150 8300
+Wire Wire Line
+	1050 8500 1150 8500
+Wire Wire Line
+	1050 8700 1150 8700
+Wire Wire Line
+	1150 1600 1250 1600
+Wire Wire Line
+	1150 1800 1250 1800
+Wire Wire Line
+	1150 2000 1250 2000
+Wire Wire Line
+	1150 2200 1250 2200
+Wire Wire Line
+	1150 2400 1250 2400
+Wire Wire Line
+	1150 2500 1250 2500
+Wire Wire Line
+	1150 2600 1250 2600
+Wire Wire Line
+	1150 2700 1250 2700
+Wire Wire Line
+	1150 2900 1250 2900
+Wire Wire Line
+	1150 7600 1050 7600
+Wire Wire Line
+	1150 7800 1050 7800
+Wire Wire Line
+	1150 7900 1050 7900
+Wire Wire Line
+	1150 8100 1050 8100
+Wire Wire Line
+	1150 8400 1050 8400
+Wire Wire Line
+	1150 8600 1050 8600
+Wire Wire Line
+	1250 1700 1150 1700
+Wire Wire Line
+	1250 1900 1150 1900
+Wire Wire Line
+	1250 2100 1150 2100
+Wire Wire Line
+	1250 2300 1150 2300
+Wire Wire Line
+	1250 2800 1150 2800
+Wire Wire Line
+	1350 5900 1400 5900
+Wire Wire Line
+	1650 7600 1750 7600
+Wire Wire Line
+	1650 7800 1750 7800
+Wire Wire Line
+	1650 8000 1750 8000
+Wire Wire Line
+	1650 8300 1750 8300
+Wire Wire Line
+	1650 8500 1750 8500
+Wire Wire Line
+	1650 8700 1750 8700
+Wire Wire Line
+	1700 4700 1700 5100
+Wire Wire Line
+	1700 5400 1700 5650
+Wire Wire Line
+	1700 5650 1700 5700
+Wire Wire Line
+	1700 6150 1700 6100
+Wire Wire Line
+	1750 7500 1650 7500
+Wire Wire Line
+	1750 7700 1650 7700
+Wire Wire Line
+	1750 7900 1650 7900
+Wire Wire Line
+	1750 8100 1650 8100
+Wire Wire Line
+	1750 8200 1650 8200
+Wire Wire Line
+	1750 8400 1650 8400
+Wire Wire Line
+	1750 8600 1650 8600
+Wire Wire Line
+	1850 5650 1700 5650
+Wire Wire Line
+	2000 3300 2000 3200
+Wire Wire Line
+	2050 4550 2100 4550
+Wire Wire Line
+	2100 3300 2100 3200
+Wire Wire Line
+	2100 4550 2100 4700
+Wire Wire Line
+	2100 4700 1700 4700
+Wire Wire Line
+	2250 5650 2150 5650
+Wire Wire Line
+	2300 3300 2300 3200
+Wire Wire Line
+	2300 8800 2400 8800
+Wire Wire Line
+	2300 8950 2400 8950
+Wire Wire Line
+	2400 7350 2500 7350
+Wire Wire Line
+	2400 7450 2900 7450
+Wire Wire Line
+	2400 7550 2900 7550
+Wire Wire Line
+	2400 7650 2900 7650
+Wire Wire Line
+	2400 7750 2900 7750
+Wire Wire Line
+	2400 7950 2500 7950
+Wire Wire Line
+	2400 8150 2500 8150
+Wire Wire Line
+	2400 8250 2900 8250
+Wire Wire Line
+	2400 8350 2900 8350
+Wire Wire Line
+	2400 8450 2900 8450
+Wire Wire Line
+	2400 8550 2900 8550
+Wire Wire Line
+	2500 7850 2400 7850
+Wire Wire Line
+	2500 7950 2900 7950
+Wire Wire Line
+	2500 8050 2400 8050
+Wire Wire Line
+	2500 8150 2900 8150
+Wire Wire Line
+	2550 4700 2100 4700
+Wire Wire Line
+	2550 4700 2550 4750
+Wire Wire Line
+	2550 5050 2550 5100
+Wire Wire Line
+	2550 5450 2550 5400
+Wire Wire Line
+	2550 5900 2550 5850
+Wire Wire Line
+	2900 7850 2500 7850
+Wire Wire Line
+	2900 8050 2500 8050
+Wire Wire Line
+	3050 2300 3150 2300
+Wire Wire Line
+	3050 2700 3150 2700
+Wire Wire Line
+	3150 1700 3050 1700
+Wire Wire Line
+	3150 1800 3050 1800
+Wire Wire Line
+	3150 1900 3050 1900
+Wire Wire Line
+	3150 2000 3050 2000
+Wire Wire Line
+	3150 2100 3050 2100
+Wire Wire Line
+	3150 2200 3050 2200
+Wire Wire Line
+	3150 2400 3050 2400
+Wire Wire Line
+	3150 2500 3050 2500
+Wire Wire Line
+	3150 2600 3050 2600
+Wire Wire Line
+	3150 2800 3050 2800
+Wire Wire Line
+	3150 2900 3050 2900
+Wire Wire Line
+	3250 8800 3350 8800
+Wire Wire Line
+	3250 8950 3350 8950
+Wire Wire Line
+	3500 5900 3550 5900
+Wire Wire Line
+	3850 5900 3900 5900
+Wire Wire Line
+	4050 7600 4150 7600
+Wire Wire Line
+	4050 7700 4150 7700
+Wire Wire Line
+	4050 7900 4150 7900
+Wire Wire Line
+	4050 8100 4150 8100
+Wire Wire Line
+	4050 8300 4150 8300
+Wire Wire Line
+	4050 8500 4150 8500
+Wire Wire Line
+	4050 8600 4150 8600
+Wire Wire Line
+	4100 1800 4200 1800
+Wire Wire Line
+	4100 4800 4200 4800
+Wire Wire Line
+	4150 7800 4050 7800
+Wire Wire Line
+	4150 7800 4550 7800
+Wire Wire Line
+	4150 8000 4050 8000
+Wire Wire Line
+	4150 8000 4550 8000
+Wire Wire Line
+	4150 8200 4050 8200
+Wire Wire Line
+	4150 8200 4550 8200
+Wire Wire Line
+	4150 8300 4550 8300
+Wire Wire Line
+	4150 8400 4050 8400
+Wire Wire Line
+	4150 8400 4550 8400
+Wire Wire Line
+	4150 8500 4550 8500
+Wire Wire Line
+	4150 8600 4550 8600
+Wire Wire Line
+	4200 1800 4200 1850
+Wire Wire Line
+	4200 1800 4550 1800
+Wire Wire Line
+	4200 2200 4200 2150
+Wire Wire Line
+	4200 4800 4200 5000
+Wire Wire Line
+	4200 5300 4200 5350
+Wire Wire Line
+	4200 5700 4200 5650
+Wire Wire Line
+	4200 6150 4200 6100
+Wire Wire Line
+	4300 8800 4400 8800
+Wire Wire Line
+	4300 8950 4400 8950
+Wire Wire Line
+	4550 1800 4550 1850
+Wire Wire Line
+	4550 2200 4550 2150
+Wire Wire Line
+	4550 7700 4150 7700
+Wire Wire Line
+	4550 7900 4150 7900
+Wire Wire Line
+	4550 8100 4150 8100
+Wire Wire Line
+	5100 5800 5200 5800
+Wire Wire Line
+	5150 5300 5200 5300
+Wire Wire Line
+	5200 5300 5200 5450
+Wire Wire Line
+	5200 5800 5200 5750
+Wire Wire Line
+	5400 2450 5450 2450
+Wire Wire Line
+	5400 2850 5450 2850
+Wire Wire Line
+	5450 2250 5400 2250
+Wire Wire Line
+	5450 2650 5400 2650
+Wire Wire Line
+	5750 5800 5850 5800
+Wire Wire Line
+	5800 5300 5850 5300
+Wire Wire Line
+	5850 5300 5850 5450
+Wire Wire Line
+	5850 5800 5850 5750
+Wire Wire Line
+	6050 9050 6100 9050
+Wire Wire Line
+	6050 9150 6100 9150
+Wire Wire Line
+	6100 8050 6150 8050
+Wire Wire Line
+	6100 8150 6150 8150
+Wire Wire Line
+	6100 8250 6150 8250
+Wire Wire Line
+	6100 8350 6150 8350
+Wire Wire Line
+	6650 8150 6750 8150
+Wire Wire Line
+	6650 8350 6750 8350
+Wire Wire Line
+	6750 8050 6650 8050
+Wire Wire Line
+	6750 8250 6650 8250
+Wire Wire Line
+	7250 8050 7300 8050
+Wire Wire Line
+	7250 8150 7300 8150
+Wire Wire Line
+	7250 8250 7300 8250
+Wire Wire Line
+	7250 8350 7300 8350
+Wire Wire Line
+	7800 8350 7900 8350
+Wire Wire Line
+	7900 8050 7800 8050
+Wire Wire Line
+	7900 8150 7800 8150
+Wire Wire Line
+	7900 8250 7800 8250
+Wire Notes Line
+	450  4050 450  6550
+Wire Notes Line
+	450  6550 6350 6550
+Wire Notes Line
+	450  6700 5400 6700
+Wire Notes Line
+	450  9200 450  6700
+Wire Notes Line
+	5400 6700 5400 9200
+Wire Notes Line
+	5400 9200 450  9200
+Wire Notes Line
+	6350 4050 450  4050
+Wire Notes Line
+	6350 6550 6350 4050
+Text Notes 550  4250 0    100  ~ 0
+I2C/SPI Circuitry
+Text Notes 550  6900 0    100  ~ 0
+I/O, Test Points
+Text Notes 900  5750 0    50   ~ 0
+SCL idles high
+Text Notes 3400 5700 0    50   ~ 0
+SCK idles low
+Text Notes 5250 1950 0    100  ~ 0
+Mount Holes
+Text GLabel 950  5900 0    60   Input ~ 0
+SCL
+Text GLabel 1050 7600 0    50   Input ~ 0
+A3
+Text GLabel 1050 7700 0    50   Input ~ 0
+A1
+Text GLabel 1050 7800 0    50   Input ~ 0
+D9
+Text GLabel 1050 7900 0    50   Input ~ 0
+D7
+Text GLabel 1050 8000 0    50   Input ~ 0
+D5
+Text GLabel 1050 8100 0    50   Input ~ 0
+D3
+Text GLabel 1050 8200 0    50   Input ~ 0
+D1
+Text GLabel 1050 8300 0    50   Input ~ 0
+SS
+Text GLabel 1050 8400 0    50   Input ~ 0
+MOSI
+Text GLabel 1050 8500 0    50   Input ~ 0
+SDA
+Text GLabel 1050 8600 0    50   Input ~ 0
++3.3V_OUT
+Text GLabel 1050 8700 0    50   Input ~ 0
++3.3V_OUT
+Text GLabel 1150 1700 0    50   Input ~ 0
+D0
+Text GLabel 1150 1800 0    50   Input ~ 0
+D1
+Text GLabel 1150 1900 0    50   Input ~ 0
+D2
+Text GLabel 1150 2000 0    50   Input ~ 0
+D3
+Text GLabel 1150 2100 0    50   Input ~ 0
+D4
+Text GLabel 1150 2200 0    50   Input ~ 0
+D5
+Text GLabel 1150 2300 0    50   Input ~ 0
+D6
+Text GLabel 1150 2400 0    50   Input ~ 0
+D7
+Text GLabel 1150 2500 0    50   Input ~ 0
+D8
+Text GLabel 1150 2600 0    50   Input ~ 0
+D9
+Text GLabel 1150 2700 0    50   Input ~ 0
+SS
+Text GLabel 1150 2800 0    50   Input ~ 0
+MOSI
+Text GLabel 1150 2900 0    50   Input ~ 0
+MISO
+Text GLabel 1750 7700 2    50   Input ~ 0
+A2
+Text GLabel 1750 7800 2    50   Input ~ 0
+A0
+Text GLabel 1750 7900 2    50   Input ~ 0
+D8
+Text GLabel 1750 8000 2    50   Input ~ 0
+D6
+Text GLabel 1750 8100 2    50   Input ~ 0
+D4
+Text GLabel 1750 8200 2    50   Input ~ 0
+D2
+Text GLabel 1750 8300 2    50   Input ~ 0
+D0
+Text GLabel 1750 8400 2    50   Input ~ 0
+SCK
+Text GLabel 1750 8500 2    50   Input ~ 0
+MISO
+Text GLabel 1750 8600 2    50   Input ~ 0
+SCL
+Text GLabel 1750 8700 2    50   Input ~ 0
++3.3V_OUT
+Text GLabel 2000 3300 3    50   Input ~ 0
++3.3V
+Text GLabel 2050 4550 0    50   Input ~ 0
++3.3V
+Text GLabel 2300 3300 3    50   Input ~ 0
+A14
+Text GLabel 2300 8800 0    50   Input ~ 0
++3.3V
+Text GLabel 2400 7450 0    50   Input ~ 0
+SS
+Text GLabel 2400 7550 0    50   Input ~ 0
+MOSI
+Text GLabel 2400 7650 0    50   Input ~ 0
+MISO
+Text GLabel 2400 7750 0    50   Input ~ 0
+SCK
+Text GLabel 2400 7850 0    50   Input ~ 0
+A0
+Text GLabel 2400 7950 0    50   Input ~ 0
+A1
+Text GLabel 2400 8050 0    50   Input ~ 0
+A2
+Text GLabel 2400 8150 0    50   Input ~ 0
+A3
+Text GLabel 2400 8250 0    50   Input ~ 0
+SDA
+Text GLabel 2400 8350 0    50   Input ~ 0
+SCL
+Text GLabel 2400 8450 0    50   Input ~ 0
+A6
+Text GLabel 2400 8550 0    50   Input ~ 0
+A7
+Text GLabel 3150 1800 2    50   Input ~ 0
++3.3V
+Text GLabel 3150 1900 2    50   Input ~ 0
+A9
+Text GLabel 3150 2000 2    50   Input ~ 0
+A8
+Text GLabel 3150 2100 2    50   Input ~ 0
+A7
+Text GLabel 3150 2200 2    50   Input ~ 0
+A6
+Text GLabel 3150 2300 2    50   Input ~ 0
+SCL
+Text GLabel 3150 2400 2    50   Input ~ 0
+SDA
+Text GLabel 3150 2500 2    50   Input ~ 0
+A3
+Text GLabel 3150 2600 2    50   Input ~ 0
+A2
+Text GLabel 3150 2700 2    50   Input ~ 0
+A1
+Text GLabel 3150 2800 2    50   Input ~ 0
+A0
+Text GLabel 3150 2900 2    50   Input ~ 0
+SCK
+Text GLabel 3500 5900 0    60   Input ~ 0
+SCK
+Text GLabel 4050 7700 0    50   Input ~ 0
+D9
+Text GLabel 4050 7800 0    50   Input ~ 0
+D8
+Text GLabel 4050 7900 0    50   Input ~ 0
+D7
+Text GLabel 4050 8000 0    50   Input ~ 0
+D6
+Text GLabel 4050 8100 0    50   Input ~ 0
+D5
+Text GLabel 4050 8200 0    50   Input ~ 0
+D4
+Text GLabel 4050 8300 0    50   Input ~ 0
+D3
+Text GLabel 4050 8400 0    50   Input ~ 0
+D2
+Text GLabel 4050 8500 0    50   Input ~ 0
+D1
+Text GLabel 4050 8600 0    50   Input ~ 0
+D0
+Text GLabel 4100 1800 0    50   Input ~ 0
++3.3V
+Text GLabel 4100 4800 0    50   Input ~ 0
++3.3V
+Text GLabel 5100 5800 0    60   Input ~ 0
+SCL
+Text GLabel 5150 5300 0    50   Input ~ 0
++3.3V
+Text GLabel 5750 5800 0    60   Input ~ 0
+SDA
+Text GLabel 5800 5300 0    50   Input ~ 0
++3.3V
+Text GLabel 6050 9050 0    50   Input ~ 0
++3.3V_OUT
+Text GLabel 6050 9150 0    50   Input ~ 0
++3.3V
+Text GLabel 6750 8050 2    50   Input ~ 0
+SS
+Text GLabel 6750 8150 2    50   Input ~ 0
+MOSI
+Text GLabel 6750 8250 2    50   Input ~ 0
+MISO
+Text GLabel 6750 8350 2    50   Input ~ 0
+SCK
+Text GLabel 7900 8050 2    50   Input ~ 0
+SDA
+Text GLabel 7900 8150 2    50   Input ~ 0
+SCL
+Text GLabel 7900 8250 2    50   Input ~ 0
+A6
+Text GLabel 7900 8350 2    50   Input ~ 0
+A7
+$Comp
+L Connector:TestPoint J24
+U 1 1 60A2268A
+P 2400 8800
+F 0 "J24" V 2400 9050 50  0000 C CNN
+F 1 "Keystone" V 2400 9350 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2400 8800 50  0001 C CNN
+F 3 "~" H 2400 8800 50  0001 C CNN
+	1    2400 8800
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J25
+U 1 1 60A22BFE
+P 2400 8950
+F 0 "J25" V 2400 9200 50  0000 C CNN
+F 1 "Keystone" V 2400 9500 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2400 8950 50  0001 C CNN
+F 3 "~" H 2400 8950 50  0001 C CNN
+	1    2400 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J1
+U 1 1 60B1502A
+P 2900 7450
+F 0 "J1" V 2900 7700 50  0000 C CNN
+F 1 "Keystone" V 2900 8000 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 7450 50  0001 C CNN
+F 3 "~" H 2900 7450 50  0001 C CNN
+	1    2900 7450
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J2
+U 1 1 60A183F6
+P 2900 7550
+F 0 "J2" V 2900 7800 50  0000 C CNN
+F 1 "Keystone" V 2900 8100 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 7550 50  0001 C CNN
+F 3 "~" H 2900 7550 50  0001 C CNN
+	1    2900 7550
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J3
+U 1 1 60A0CB16
+P 2900 7650
+F 0 "J3" V 2900 7900 50  0000 C CNN
+F 1 "Keystone" V 2900 8200 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 7650 50  0001 C CNN
+F 3 "~" H 2900 7650 50  0001 C CNN
+	1    2900 7650
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J5
+U 1 1 609F2F57
+P 2900 7750
+F 0 "J5" V 2900 8000 50  0000 C CNN
+F 1 "Keystone" V 2900 8300 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 7750 50  0001 C CNN
+F 3 "~" H 2900 7750 50  0001 C CNN
+	1    2900 7750
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J7
+U 1 1 60A73BD1
+P 2900 7850
+F 0 "J7" V 2900 8100 50  0000 C CNN
+F 1 "Keystone" V 2900 8400 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 7850 50  0001 C CNN
+F 3 "~" H 2900 7850 50  0001 C CNN
+	1    2900 7850
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J9
+U 1 1 60A73A4A
+P 2900 7950
+F 0 "J9" V 2900 8200 50  0000 C CNN
+F 1 "Keystone" V 2900 8500 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 7950 50  0001 C CNN
+F 3 "~" H 2900 7950 50  0001 C CNN
+	1    2900 7950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J13
+U 1 1 60A737F1
+P 2900 8050
+F 0 "J13" V 2900 8300 50  0000 C CNN
+F 1 "Keystone" V 2900 8600 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 8050 50  0001 C CNN
+F 3 "~" H 2900 8050 50  0001 C CNN
+	1    2900 8050
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J16
+U 1 1 60A73657
+P 2900 8150
+F 0 "J16" V 2900 8400 50  0000 C CNN
+F 1 "Keystone" V 2900 8700 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 8150 50  0001 C CNN
+F 3 "~" H 2900 8150 50  0001 C CNN
+	1    2900 8150
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J18
+U 1 1 60A7350A
+P 2900 8250
+F 0 "J18" V 2900 8500 50  0000 C CNN
+F 1 "Keystone" V 2900 8800 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 8250 50  0001 C CNN
+F 3 "~" H 2900 8250 50  0001 C CNN
+	1    2900 8250
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J20
+U 1 1 609F5FC3
+P 2900 8350
+F 0 "J20" V 2900 8600 50  0000 C CNN
+F 1 "Keystone" V 2900 8900 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 8350 50  0001 C CNN
+F 3 "~" H 2900 8350 50  0001 C CNN
+	1    2900 8350
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J30
+U 1 1 6087E2C9
+P 2900 8450
+F 0 "J30" V 2900 8700 50  0000 C CNN
+F 1 "Keystone" V 2900 9000 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 8450 50  0001 C CNN
+F 3 "~" H 2900 8450 50  0001 C CNN
+	1    2900 8450
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J31
+U 1 1 6087E440
+P 2900 8550
+F 0 "J31" V 2900 8800 50  0000 C CNN
+F 1 "Keystone" V 2900 9100 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 2900 8550 50  0001 C CNN
+F 3 "~" H 2900 8550 50  0001 C CNN
+	1    2900 8550
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J26
+U 1 1 60991F9C
+P 3350 8800
+F 0 "J26" V 3350 9050 50  0000 C CNN
+F 1 "Keystone" V 3350 9350 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 3350 8800 50  0001 C CNN
+F 3 "~" H 3350 8800 50  0001 C CNN
+	1    3350 8800
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J27
+U 1 1 60989835
+P 3350 8950
+F 0 "J27" V 3350 9200 50  0000 C CNN
+F 1 "Keystone" V 3350 9500 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 3350 8950 50  0001 C CNN
+F 3 "~" H 3350 8950 50  0001 C CNN
+	1    3350 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J28
+U 1 1 60841BFA
+P 4400 8800
+F 0 "J28" V 4400 9050 50  0000 C CNN
+F 1 "Keystone" V 4400 9350 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4400 8800 50  0001 C CNN
+F 3 "~" H 4400 8800 50  0001 C CNN
+	1    4400 8800
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J29
+U 1 1 608416D9
+P 4400 8950
+F 0 "J29" V 4400 9200 50  0000 C CNN
+F 1 "Keystone" V 4400 9500 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4400 8950 50  0001 C CNN
+F 3 "~" H 4400 8950 50  0001 C CNN
+	1    4400 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J4
+U 1 1 60A0C990
+P 4550 7700
+F 0 "J4" V 4550 7950 50  0000 C CNN
+F 1 "Keystone" V 4550 8250 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 7700 50  0001 C CNN
+F 3 "~" H 4550 7700 50  0001 C CNN
+	1    4550 7700
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J6
+U 1 1 60A0C800
+P 4550 7800
+F 0 "J6" V 4550 8050 50  0000 C CNN
+F 1 "Keystone" V 4550 8350 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 7800 50  0001 C CNN
+F 3 "~" H 4550 7800 50  0001 C CNN
+	1    4550 7800
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J8
+U 1 1 60A0C6AE
+P 4550 7900
+F 0 "J8" V 4550 8150 50  0000 C CNN
+F 1 "Keystone" V 4550 8450 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 7900 50  0001 C CNN
+F 3 "~" H 4550 7900 50  0001 C CNN
+	1    4550 7900
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J11
+U 1 1 609F6B1D
+P 4550 8000
+F 0 "J11" V 4550 8250 50  0000 C CNN
+F 1 "Keystone" V 4550 8550 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8000 50  0001 C CNN
+F 3 "~" H 4550 8000 50  0001 C CNN
+	1    4550 8000
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J15
+U 1 1 60A04339
+P 4550 8100
+F 0 "J15" V 4550 8350 50  0000 C CNN
+F 1 "Keystone" V 4550 8650 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8100 50  0001 C CNN
+F 3 "~" H 4550 8100 50  0001 C CNN
+	1    4550 8100
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J17
+U 1 1 609F9ED7
+P 4550 8200
+F 0 "J17" V 4550 8450 50  0000 C CNN
+F 1 "Keystone" V 4550 8750 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8200 50  0001 C CNN
+F 3 "~" H 4550 8200 50  0001 C CNN
+	1    4550 8200
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J19
+U 1 1 609F9CE8
+P 4550 8300
+F 0 "J19" V 4550 8550 50  0000 C CNN
+F 1 "Keystone" V 4550 8850 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8300 50  0001 C CNN
+F 3 "~" H 4550 8300 50  0001 C CNN
+	1    4550 8300
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J21
+U 1 1 609F9B4A
+P 4550 8400
+F 0 "J21" V 4550 8650 50  0000 C CNN
+F 1 "Keystone" V 4550 8950 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8400 50  0001 C CNN
+F 3 "~" H 4550 8400 50  0001 C CNN
+	1    4550 8400
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J22
+U 1 1 609F9964
+P 4550 8500
+F 0 "J22" V 4550 8750 50  0000 C CNN
+F 1 "Keystone" V 4550 9050 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8500 50  0001 C CNN
+F 3 "~" H 4550 8500 50  0001 C CNN
+	1    4550 8500
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint J23
+U 1 1 609F6F10
+P 4550 8600
+F 0 "J23" V 4550 8850 50  0000 C CNN
+F 1 "Keystone" V 4550 9150 50  0000 C CNN
+F 2 "Rays Footprints:Keystone-5005" H 4550 8600 50  0001 C CNN
+F 3 "~" H 4550 8600 50  0001 C CNN
+	1    4550 8600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 6081E617
+P 1050 7500
+F 0 "#PWR0105" H 1050 7250 50  0001 C CNN
+F 1 "GND" H 1055 7327 50  0001 C CNN
+F 2 "" H 1050 7500 50  0001 C CNN
+F 3 "" H 1050 7500 50  0001 C CNN
+	1    1050 7500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 608BA0F1
+P 1150 1600
+F 0 "#PWR01" H 1150 1350 50  0001 C CNN
+F 1 "GND" H 1155 1427 50  0001 C CNN
+F 2 "" H 1150 1600 50  0001 C CNN
+F 3 "" H 1150 1600 50  0001 C CNN
+	1    1150 1600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5FBD58E3
+P 1700 6150
+F 0 "#PWR07" H 1700 5900 50  0001 C CNN
+F 1 "GND" H 1705 5977 50  0001 C CNN
+F 2 "" H 1700 6150 50  0001 C CNN
+F 3 "" H 1700 6150 50  0001 C CNN
+	1    1700 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 60830A84
+P 1750 7500
+F 0 "#PWR0106" H 1750 7250 50  0001 C CNN
+F 1 "GND" H 1755 7327 50  0001 C CNN
+F 2 "" H 1750 7500 50  0001 C CNN
+F 3 "" H 1750 7500 50  0001 C CNN
+	1    1750 7500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 60988441
+P 1750 7600
+F 0 "#PWR0109" H 1750 7350 50  0001 C CNN
+F 1 "GND" H 1755 7427 50  0001 C CNN
+F 2 "" H 1750 7600 50  0001 C CNN
+F 3 "" H 1750 7600 50  0001 C CNN
+	1    1750 7600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 608B5FDF
+P 2100 3300
+F 0 "#PWR05" H 2100 3050 50  0001 C CNN
+F 1 "GND" H 2105 3127 50  0001 C CNN
+F 2 "" H 2100 3300 50  0001 C CNN
+F 3 "" H 2100 3300 50  0001 C CNN
+	1    2100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR09
+U 1 1 5FC07F44
+P 2300 8950
+F 0 "#PWR09" H 2300 8700 50  0001 C CNN
+F 1 "GND" H 2305 8777 50  0001 C CNN
+F 2 "" H 2300 8950 50  0001 C CNN
+F 3 "" H 2300 8950 50  0001 C CNN
+	1    2300 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 60DA7C88
+P 2400 7350
+F 0 "#PWR0116" H 2400 7100 50  0001 C CNN
+F 1 "GND" H 2405 7177 50  0001 C CNN
+F 2 "" H 2400 7350 50  0001 C CNN
+F 3 "" H 2400 7350 50  0001 C CNN
+	1    2400 7350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5FBD557E
+P 2550 5900
+F 0 "#PWR06" H 2550 5650 50  0001 C CNN
+F 1 "GND" H 2555 5727 50  0001 C CNN
+F 2 "" H 2550 5900 50  0001 C CNN
+F 3 "" H 2550 5900 50  0001 C CNN
+	1    2550 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 608C1B79
+P 3150 1700
+F 0 "#PWR02" H 3150 1450 50  0001 C CNN
+F 1 "GND" H 3155 1527 50  0001 C CNN
+F 2 "" H 3150 1700 50  0001 C CNN
+F 3 "" H 3150 1700 50  0001 C CNN
+	1    3150 1700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 609924A5
+P 3250 8800
+F 0 "#PWR0110" H 3250 8550 50  0001 C CNN
+F 1 "GND" H 3255 8627 50  0001 C CNN
+F 2 "" H 3250 8800 50  0001 C CNN
+F 3 "" H 3250 8800 50  0001 C CNN
+	1    3250 8800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 60989D24
+P 3250 8950
+F 0 "#PWR0108" H 3250 8700 50  0001 C CNN
+F 1 "GND" H 3255 8777 50  0001 C CNN
+F 2 "" H 3250 8950 50  0001 C CNN
+F 3 "" H 3250 8950 50  0001 C CNN
+	1    3250 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 60DB20BB
+P 4050 7600
+F 0 "#PWR0117" H 4050 7350 50  0001 C CNN
+F 1 "GND" H 4055 7427 50  0001 C CNN
+F 2 "" H 4050 7600 50  0001 C CNN
+F 3 "" H 4050 7600 50  0001 C CNN
+	1    4050 7600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 60962EF7
+P 4200 2200
+F 0 "#PWR03" H 4200 1950 50  0001 C CNN
+F 1 "GND" H 4205 2027 50  0001 C CNN
+F 2 "" H 4200 2200 50  0001 C CNN
+F 3 "" H 4200 2200 50  0001 C CNN
+	1    4200 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR08
+U 1 1 5FBD4FBE
+P 4200 6150
+F 0 "#PWR08" H 4200 5900 50  0001 C CNN
+F 1 "GND" H 4205 5977 50  0001 C CNN
+F 2 "" H 4200 6150 50  0001 C CNN
+F 3 "" H 4200 6150 50  0001 C CNN
+	1    4200 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 60841C05
+P 4300 8800
+F 0 "#PWR0111" H 4300 8550 50  0001 C CNN
+F 1 "GND" H 4305 8627 50  0001 C CNN
+F 2 "" H 4300 8800 50  0001 C CNN
+F 3 "" H 4300 8800 50  0001 C CNN
+	1    4300 8800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 60841BF0
+P 4300 8950
+F 0 "#PWR0107" H 4300 8700 50  0001 C CNN
+F 1 "GND" H 4305 8777 50  0001 C CNN
+F 2 "" H 4300 8950 50  0001 C CNN
+F 3 "" H 4300 8950 50  0001 C CNN
+	1    4300 8950
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 6097545B
+P 4550 2200
+F 0 "#PWR04" H 4550 1950 50  0001 C CNN
+F 1 "GND" H 4555 2027 50  0001 C CNN
+F 2 "" H 4550 2200 50  0001 C CNN
+F 3 "" H 4550 2200 50  0001 C CNN
+	1    4550 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 60BF1284
+P 5400 2250
+F 0 "#PWR0101" H 5400 2000 50  0001 C CNN
+F 1 "GND" H 5405 2077 50  0001 C CNN
+F 2 "" H 5400 2250 50  0001 C CNN
+F 3 "" H 5400 2250 50  0001 C CNN
+	1    5400 2250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 60BF16B8
+P 5400 2450
+F 0 "#PWR0102" H 5400 2200 50  0001 C CNN
+F 1 "GND" H 5405 2277 50  0001 C CNN
+F 2 "" H 5400 2450 50  0001 C CNN
+F 3 "" H 5400 2450 50  0001 C CNN
+	1    5400 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 60BF190C
+P 5400 2650
+F 0 "#PWR0103" H 5400 2400 50  0001 C CNN
+F 1 "GND" H 5405 2477 50  0001 C CNN
+F 2 "" H 5400 2650 50  0001 C CNN
+F 3 "" H 5400 2650 50  0001 C CNN
+	1    5400 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 60BF1A4E
+P 5400 2850
+F 0 "#PWR0104" H 5400 2600 50  0001 C CNN
+F 1 "GND" H 5405 2677 50  0001 C CNN
+F 2 "" H 5400 2850 50  0001 C CNN
+F 3 "" H 5400 2850 50  0001 C CNN
+	1    5400 2850
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 60D81E97
+P 6100 8050
+F 0 "#PWR0112" H 6100 7800 50  0001 C CNN
+F 1 "GND" H 6105 7877 50  0001 C CNN
+F 2 "" H 6100 8050 50  0001 C CNN
+F 3 "" H 6100 8050 50  0001 C CNN
+	1    6100 8050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0113
+U 1 1 60D8B445
+P 6100 8150
+F 0 "#PWR0113" H 6100 7900 50  0001 C CNN
+F 1 "GND" H 6105 7977 50  0001 C CNN
+F 2 "" H 6100 8150 50  0001 C CNN
+F 3 "" H 6100 8150 50  0001 C CNN
+	1    6100 8150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 60D8B670
+P 6100 8250
+F 0 "#PWR0114" H 6100 8000 50  0001 C CNN
+F 1 "GND" H 6105 8077 50  0001 C CNN
+F 2 "" H 6100 8250 50  0001 C CNN
+F 3 "" H 6100 8250 50  0001 C CNN
+	1    6100 8250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 60D8B805
+P 6100 8350
+F 0 "#PWR0115" H 6100 8100 50  0001 C CNN
+F 1 "GND" H 6105 8177 50  0001 C CNN
+F 2 "" H 6100 8350 50  0001 C CNN
+F 3 "" H 6100 8350 50  0001 C CNN
+	1    6100 8350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 60DBC75F
+P 7250 8050
+F 0 "#PWR0118" H 7250 7800 50  0001 C CNN
+F 1 "GND" H 7255 7877 50  0001 C CNN
+F 2 "" H 7250 8050 50  0001 C CNN
+F 3 "" H 7250 8050 50  0001 C CNN
+	1    7250 8050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 60DBC76A
+P 7250 8150
+F 0 "#PWR0119" H 7250 7900 50  0001 C CNN
+F 1 "GND" H 7255 7977 50  0001 C CNN
+F 2 "" H 7250 8150 50  0001 C CNN
+F 3 "" H 7250 8150 50  0001 C CNN
+	1    7250 8150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0120
+U 1 1 60DBC774
+P 7250 8250
+F 0 "#PWR0120" H 7250 8000 50  0001 C CNN
+F 1 "GND" H 7255 8077 50  0001 C CNN
+F 2 "" H 7250 8250 50  0001 C CNN
+F 3 "" H 7250 8250 50  0001 C CNN
+	1    7250 8250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0121
+U 1 1 60DBC77E
+P 7250 8350
+F 0 "#PWR0121" H 7250 8100 50  0001 C CNN
+F 1 "GND" H 7255 8177 50  0001 C CNN
+F 2 "" H 7250 8350 50  0001 C CNN
+F 3 "" H 7250 8350 50  0001 C CNN
+	1    7250 8350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_US R7
+U 1 1 5F0C9830
+P 1200 5900
+F 0 "R7" V 1300 5900 50  0000 C CNN
+F 1 "50k" V 1100 5900 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 1240 5890 50  0001 C CNN
+F 3 "~" H 1200 5900 50  0001 C CNN
+	1    1200 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R2
+U 1 1 5F0C9E2A
+P 1700 5250
+F 0 "R2" V 1600 5250 50  0000 C CNN
+F 1 "50k" V 1800 5250 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 1740 5240 50  0001 C CNN
+F 3 "~" H 1700 5250 50  0001 C CNN
+	1    1700 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R6
+U 1 1 5F0C92BB
+P 2000 5650
+F 0 "R6" V 2200 5650 50  0000 C CNN
+F 1 "10k" V 2100 5650 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 2040 5640 50  0001 C CNN
+F 3 "~" H 2000 5650 50  0001 C CNN
+	1    2000 5650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R1
+U 1 1 5F0CB533
+P 2550 4900
+F 0 "R1" V 2650 4900 50  0000 C CNN
+F 1 "2k" V 2450 4900 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 2590 4890 50  0001 C CNN
+F 3 "~" H 2550 4900 50  0001 C CNN
+	1    2550 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R8
+U 1 1 5F0C8C93
+P 3700 5900
+F 0 "R8" V 3800 5900 50  0000 C CNN
+F 1 "50k" V 3600 5900 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 3740 5890 50  0001 C CNN
+F 3 "~" H 3700 5900 50  0001 C CNN
+	1    3700 5900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R3
+U 1 1 5F0C8684
+P 4200 5500
+F 0 "R3" V 4300 5500 50  0000 C CNN
+F 1 "2k" V 4100 5500 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 4240 5490 50  0001 C CNN
+F 3 "~" H 4200 5500 50  0001 C CNN
+	1    4200 5500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R4
+U 1 1 5C153320
+P 5200 5600
+F 0 "R4" V 5300 5600 50  0000 C CNN
+F 1 "4.7k" V 5100 5600 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 5240 5590 50  0001 C CNN
+F 3 "~" H 5200 5600 50  0001 C CNN
+	1    5200 5600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_US R5
+U 1 1 5C181EA7
+P 5850 5600
+F 0 "R5" V 5950 5600 50  0000 C CNN
+F 1 "4.7k" V 5750 5600 50  0000 C CNN
+F 2 "Rays Footprints:R_0805_HandSoldering" V 5890 5590 50  0001 C CNN
+F 3 "~" H 5850 5600 50  0001 C CNN
+	1    5850 5600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 MTH1
+U 1 1 5ED30D01
+P 5650 2250
+F 0 "MTH1" H 5708 2370 50  0000 L CNN
+F 1 "Mount Hole" H 5708 2279 50  0000 L CNN
+F 2 "Rays Footprints:Mount-Hole-#6" H 5850 2250 50  0001 C CNN
+F 3 "" H 5850 2250 50  0001 C CNN
+	1    5650 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 MTH2
+U 1 1 5ECA813E
+P 5650 2450
+F 0 "MTH2" H 5708 2570 50  0000 L CNN
+F 1 "Mount Hole" H 5708 2479 50  0000 L CNN
+F 2 "Rays Footprints:Mount-Hole-#6" H 5850 2450 50  0001 C CNN
+F 3 "~" H 5850 2450 50  0001 C CNN
+	1    5650 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 MTH3
+U 1 1 5ED30D03
+P 5650 2650
+F 0 "MTH3" H 5708 2770 50  0000 L CNN
+F 1 "Mount Hole" H 5708 2679 50  0000 L CNN
+F 2 "Rays Footprints:Mount-Hole-#6" H 5850 2650 50  0001 C CNN
+F 3 "~" H 5850 2650 50  0001 C CNN
+	1    5650 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 MTH4
+U 1 1 5ECA8140
+P 5650 2850
+F 0 "MTH4" H 5708 2970 50  0000 L CNN
+F 1 "Mount Hole" H 5708 2879 50  0000 L CNN
+F 2 "Rays Footprints:Mount-Hole-#6" H 5850 2850 50  0001 C CNN
+F 3 "~" H 5850 2850 50  0001 C CNN
+	1    5650 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 5C11FA48
+P 2550 5250
+AR Path="/5BF27C26/5C11FA48" Ref="D?"  Part="1" 
+AR Path="/5C11FA48" Ref="D2"  Part="1" 
+F 0 "D2" V 2588 5133 50  0000 R CNN
+F 1 "LED" V 2497 5133 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2550 5250 50  0001 C CNN
+F 3 "~" H 2550 5250 50  0001 C CNN
+	1    2550 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 5C06F0AE
+P 4200 5150
+AR Path="/5BF27C26/5C06F0AE" Ref="D?"  Part="1" 
+AR Path="/5C06F0AE" Ref="D1"  Part="1" 
+F 0 "D1" V 4238 5033 50  0000 R CNN
+F 1 "LED" V 4147 5033 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4200 5150 50  0001 C CNN
+F 3 "~" H 4200 5150 50  0001 C CNN
+	1    4200 5150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J34
+U 1 1 60EEACE2
+P 6300 9150
+F 0 "J34" H 6200 8800 50  0000 L CNN
+F 1 "3.3V Jumper" H 6050 8900 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6500 9150 50  0001 C CNN
+F 3 "" H 6500 9150 50  0001 C CNN
+	1    6300 9150
+	1    0    0    1   
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5C05E804
+P 4200 2000
+F 0 "C1" H 4225 2100 50  0000 L CNN
+F 1 "100n" H 4225 1900 50  0000 L CNN
+F 2 "Rays Footprints:C_0805_HandSoldering" H 4238 1850 50  0001 C CNN
+F 3 "AVX 08053C104KAT2A" H 4200 2000 50  0001 C CNN
+	1    4200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 60969227
+P 4550 2000
+F 0 "C2" H 4575 2100 50  0000 L CNN
+F 1 "10uF" H 4575 1900 50  0000 L CNN
+F 2 "Rays Footprints:C_0805_HandSoldering" H 4588 1850 50  0001 C CNN
+F 3 "AVX 08053C104KAT2A" H 4550 2000 50  0001 C CNN
+	1    4550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J12
+U 1 1 60AC791C
+P 2700 8050
+F 0 "J12" H 2600 7150 50  0000 L CNN
+F 1 "I/O Connector" H 2400 7250 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2900 8050 50  0001 C CNN
+F 3 "" H 2900 8050 50  0001 C CNN
+	1    2700 8050
+	1    0    0    1   
+$EndComp
+$Comp
+L transistors:2N3904 Q2
+U 1 1 5C0FCFF6
+P 1600 5900
+F 0 "Q2" H 1800 5975 50  0000 L CNN
+F 1 "2N3904" H 1800 5900 50  0000 L CNN
+F 2 "Rays Footprints:2N3904-SOT-23" H 1800 5825 50  0001 L CIN
+F 3 "MMBT3904-TP or equiv" H 1600 5900 50  0001 L CNN
+	1    1600 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L transistors:2N3904 Q1
+U 1 1 5DEA8B8D
+P 2450 5650
+F 0 "Q1" H 2650 5725 50  0000 L CNN
+F 1 "2N3904" H 2650 5650 50  0000 L CNN
+F 2 "Rays Footprints:2N3904-SOT-23" H 2650 5575 50  0001 L CIN
+F 3 "MMBT3904-TP or equiv" H 2450 5650 50  0001 L CNN
+	1    2450 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L transistors:2N3904 Q3
+U 1 1 5C1086BA
+P 4100 5900
+F 0 "Q3" H 4300 5975 50  0000 L CNN
+F 1 "2N3904" H 4300 5900 50  0000 L CNN
+F 2 "Rays Footprints:2N3904-SOT-23" H 4300 5825 50  0001 L CIN
+F 3 "MMBT3904-TP or equiv" H 4100 5900 50  0001 L CNN
+	1    4100 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x04_Odd_Even J32
+U 1 1 60D81969
+P 6350 8250
+F 0 "J32" H 6150 7750 50  0000 L CNN
+F 1 "I/O Connector" H 5950 7850 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 6550 8250 50  0001 C CNN
+F 3 "" H 6550 8250 50  0001 C CNN
+	1    6350 8250
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x04_Odd_Even J33
+U 1 1 60DE119D
+P 7500 8250
+F 0 "J33" H 7300 7750 50  0000 L CNN
+F 1 "I/O Connector" H 7100 7850 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" H 7700 8250 50  0001 C CNN
+F 3 "" H 7700 8250 50  0001 C CNN
+	1    7500 8250
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x11 J10
+U 1 1 609E495E
+P 4350 8100
+F 0 "J10" H 4300 7200 50  0000 L CNN
+F 1 "I/O Connector" H 4050 7300 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x11_P2.54mm_Vertical" H 4550 8100 50  0001 C CNN
+F 3 "" H 4550 8100 50  0001 C CNN
+	1    4350 8100
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x13_Odd_Even J14
+U 1 1 60B7B97F
+P 1350 8100
+F 0 "J14" H 1300 7250 50  0000 L CNN
+F 1 "I/O Connector" H 1150 7350 50  0000 L CNN
+F 2 "Rays Footprints:Conn_Samtech_EHF-113-01-L-D" H 1550 8100 50  0001 C CNN
+F 3 "" H 1550 8100 50  0001 C CNN
+	1    1350 8100
+	1    0    0    1   
+$EndComp
+$Comp
+L Teensy-Breakout-v3-rescue:teensy3.2-Teensy3 U1
+U 1 1 608097D0
+P 1550 2300
+F 0 "U1" H 2150 3609 60  0000 C CNN
+F 1 "teensy3.2" H 2150 3503 60  0000 C CNN
+F 2 "Rays Footprints:teensy3.2" H 2150 3397 60  0000 C CNN
+F 3 "" H 1550 2300 60  0000 C CNN
+	1    1550 2300
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
